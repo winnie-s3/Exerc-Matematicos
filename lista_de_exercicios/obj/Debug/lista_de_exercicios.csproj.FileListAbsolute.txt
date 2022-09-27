@@ -1,0 +1,43 @@
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\lista_de_exercicios\lista_de_exercicios\bin\Debug\lista_de_exercicios.exe.config
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\lista_de_exercicios\lista_de_exercicios\bin\Debug\lista_de_exercicios.exe
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\lista_de_exercicios\lista_de_exercicios\bin\Debug\lista_de_exercicios.pdb
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Properties.Resources.resources
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.csproj.GenerateResource.Cache
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.exe
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.pdb
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.csprojResolveAssemblyReference.cache
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form1.resources
+E:\DS\lista_de_exercicios\lista_de_exercicios\bin\Debug\lista_de_exercicios.exe.config
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.exe
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.csprojResolveAssemblyReference.cache
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form1.resources
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Properties.Resources.resources
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.csproj.GenerateResource.Cache
+E:\DS\lista_de_exercicios\lista_de_exercicios\bin\Debug\lista_de_exercicios.exe
+E:\DS\lista_de_exercicios\lista_de_exercicios\bin\Debug\lista_de_exercicios.pdb
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.pdb
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form2.resources
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form3.resources
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form4.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\bin\Debug\lista_de_exercicios.exe.config
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.exe
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.pdb
+F:\DS\lista_de_exercicios\lista_de_exercicios\bin\Debug\lista_de_exercicios.exe
+F:\DS\lista_de_exercicios\lista_de_exercicios\bin\Debug\lista_de_exercicios.pdb
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form1.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form2.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form3.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form4.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Properties.Resources.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.csproj.GenerateResource.Cache
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form5.resources
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form5.resources
+E:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form6.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form6.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form7.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form8.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form9.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form10.resources
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.csproj.AssemblyReference.cache
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.csproj.CoreCompileInputs.cache
+F:\DS\lista_de_exercicios\lista_de_exercicios\obj\Debug\lista_de_exercicios.Form11.resources
