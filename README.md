@@ -26,7 +26,7 @@
 ### Cálculo da quantidade de alunos do sexo masculino e feminino
 <img src="https://user-images.githubusercontent.com/74850021/192406974-df6f924b-65bc-4aaa-8fdd-548038547c06.jpeg"><br>
 
-### Calculadora de empréstimo bancário
+### Cálculo de empréstimo bancário
 <img src="https://user-images.githubusercontent.com/74850021/192406972-49b4026d-faba-4387-9d83-d436b9560313.jpeg"><br>
 
 ### Calculo de salário fixo e total de vendas
